@@ -1,0 +1,407 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "d1" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1},
+          "+" : {"frames" : 1},
+          "E" : {"frames" : 1},
+          "." :{"frames" : 1}
+        }
+      },
+
+      "d2" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1},
+          "+" : {"frames" : 1},
+          "E" : {"frames" : 1},
+          "." :{"frames" : 1}
+        }
+      },
+
+      "d3" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1},
+          "+" : {"frames" : 1},
+          "E" : {"frames" : 1},
+          "." :{"frames" : 1}
+        }
+      },
+
+      "d4" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1},
+          "+" : {"frames" : 1},
+          "E" : {"frames" : 1},
+          "." :{"frames" : 1}
+        }
+      },
+
+      "d5" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1},
+          "+" : {"frames" : 1},
+          "E" : {"frames" : 1},
+          "." :{"frames" : 1}
+        }
+      },
+
+      "d6" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1},
+          "+" : {"frames" : 1},
+          "E" : {"frames" : 1},
+          "." :{"frames" : 1}
+        }
+      },
+
+      "d7" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1},
+          "+" : {"frames" : 1},
+          "E" : {"frames" : 1},
+          "." :{"frames" : 1}
+        }
+      },
+
+      "d8" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1},
+          "+" : {"frames" : 1},
+          "E" : {"frames" : 1},
+          "." :{"frames" : 1}
+        }
+      },
+
+      "d9" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1},
+          "+" : {"frames" : 1},
+          "E" : {"frames" : 1},
+          "." :{"frames" : 1}
+        }
+      },
+
+      "base" : {
+        "default" : "base",
+        "states" : { "base": {"frames": 1} }
+      }
+    },
+
+    "parts" : {
+      "d1" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [4.3125, 0.125]},
+        "partStates" : {
+          "d1" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}}, 
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}},
+            "+" : {"properties" : {"image" : "<partImage>:+"}},
+            "E" : {"properties" : {"image" : "<partImage>:E"}},
+            "." : {"properties" : {"image" : "<partImage>:."}}
+          }
+        }
+      },
+      "d2" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [3.8125, 0.125]},
+        "partStates" : {
+          "d2" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}},
+            "+" : {"properties" : {"image" : "<partImage>:+"}},
+            "E" : {"properties" : {"image" : "<partImage>:E"}},
+            "." : {"properties" : {"image" : "<partImage>:."}}
+          }
+        }
+      },
+      "d3" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [3.3125, 0.125]},
+        "partStates" : {
+          "d3" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}},
+            "+" : {"properties" : {"image" : "<partImage>:+"}},
+            "E" : {"properties" : {"image" : "<partImage>:E"}},
+            "." : {"properties" : {"image" : "<partImage>:."}}
+          }
+        }
+      },
+      "d4" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [2.8125, 0.125]},
+        "partStates" : {
+          "d4" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}},
+            "+" : {"properties" : {"image" : "<partImage>:+"}},
+            "E" : {"properties" : {"image" : "<partImage>:E"}},
+            "." : {"properties" : {"image" : "<partImage>:."}}
+          }
+        }
+      },
+      "d5" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [2.3125, 0.125]},
+        "partStates" : {
+          "d5" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}},
+            "+" : {"properties" : {"image" : "<partImage>:+"}},
+            "E" : {"properties" : {"image" : "<partImage>:E"}},
+            "." : {"properties" : {"image" : "<partImage>:."}}
+          }
+        }
+      },
+      "d6" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [1.8125, 0.125]},
+        "partStates" : {
+          "d6" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}},
+            "+" : {"properties" : {"image" : "<partImage>:+"}},
+            "E" : {"properties" : {"image" : "<partImage>:E"}},
+            "." : {"properties" : {"image" : "<partImage>:."}}
+          }
+        }
+      },
+      "d7" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [1.3125, 0.125]},
+        "partStates" : {
+          "d7" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}},
+            "+" : {"properties" : {"image" : "<partImage>:+"}},
+            "E" : {"properties" : {"image" : "<partImage>:E"}},
+            "." : {"properties" : {"image" : "<partImage>:."}}
+          }
+        }
+      },
+      "d8" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [0.8125, 0.125]},
+        "partStates" : {
+          "d8" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}},
+            "+" : {"properties" : {"image" : "<partImage>:+"}},
+            "E" : {"properties" : {"image" : "<partImage>:E"}},
+            "." : {"properties" : {"image" : "<partImage>:."}}
+          }
+        }
+      },
+      "d9" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [0.3125, 0.125]},
+        "partStates" : {
+          "d9" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}},
+            "+" : {"properties" : {"image" : "<partImage>:+"}},
+            "E" : {"properties" : {"image" : "<partImage>:E"}},
+            "." : {"properties" : {"image" : "<partImage>:."}}
+          }
+        }
+      },
+
+      "base" : {
+        "properties" : {"centered" : false},
+        "partStates" : {
+          "base" : { "base" : {"properties" : {"image" : "<partImage>:base"}}}
+        }
+      }
+    }
+  }
+}

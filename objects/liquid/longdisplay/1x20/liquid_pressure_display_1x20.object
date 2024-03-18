@@ -1,0 +1,78 @@
+{
+  "objectName" : "lumi_liquid_compression_display_1x20",
+  "printable" : false,
+  "colonyTags" : [ "science", "power", "tech" ],
+  "rarity" : "uncommon",
+  "description" : "A comically long pressure display. Because we grow em' big around here.\n^cyan;Input:^reset; Data signal from liquid sensor.",
+  "shortdescription" : "^cyan;Liq. Pressure Display^reset;: ^orange;1x20^reset;",
+  "race" : "generic",
+  "category" : "wire",
+  "price" : 205,
+
+  "inventoryIcon" : "liquid_pressure_display_icon_1x20.png",
+
+  "orientations" : [
+    {
+      "image" : "liquid_pressure_display_1x20.png:base",
+      "imagePosition" : [0, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "direction" : "right"
+    }
+  ],
+  
+  "scripts" : [ "/objects/liquid/longdisplay/liquid_compression_display.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "liquid_pressure_display_1x20.animation",
+  "animationParts" : {
+     "one":                "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "ten":                "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "hundred":            "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "thousand":           "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "tenThousand":        "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "hundredThousand":    "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "million":            "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "tenMillion":         "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "hundredMillion":     "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "billion":            "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "tenBillion":         "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "hundredBillion":     "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "trillion":           "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "tenTrillion":        "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "hundredTrillion":    "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "quadrillion":        "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "tenQuadrillion":     "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "hundredQuadrillion": "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "quintillion":        "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "tenQuintillion":     "/objects/liquid/longdisplay/liquid_compression_display_num.png",
+     "base":               "liquid_pressure_display_1x20.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "inputNodes" : [ [0, 0] ],
+  "pressureMax": 9223372036854775807,
+  "displayDigits": {
+    "one":                true,
+    "ten":                true,
+    "hundred":            true,
+    "thousand":           true,
+    "tenThousand":        true,
+    "hundredThousand":    true,  
+    "million":            true,
+    "tenMillion":         true,
+    "hundredMillion":     true,
+    "billion":            true,
+    "tenBillion":         true,
+    "hundredBillion":     true,
+    "trillion":           true,
+    "tenTrillion":        true,
+    "hundredTrillion":    true,
+    "quadrillion":        true,
+    "tenQuadrillion":     true,
+    "hundredQuadrillion": true,
+    "quintillion":        true,
+    "tenQuintillion":     true
+  }
+}

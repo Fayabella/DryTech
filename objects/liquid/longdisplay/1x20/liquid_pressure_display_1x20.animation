@@ -1,0 +1,761 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "one" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "ten" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "hundred" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "thousand" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "tenThousand" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "hundredThousand" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "million" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "tenMillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "hundredMillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "billion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "tenBillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "hundredBillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "trillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "tenTrillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "hundredTrillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "quadrillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "tenQuadrillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "hundredQuadrillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "quintillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+      "tenQuintillion" : {
+        "default" : "0",
+        "states" : {
+          "0" : {"frames" : 1},
+          "1" : {"frames" : 1},
+          "2" : {"frames" : 1},
+          "3" : {"frames" : 1},
+          "4" : {"frames" : 1},
+          "5" : {"frames" : 1},
+          "6" : {"frames" : 1},
+          "7" : {"frames" : 1},
+          "8" : {"frames" : 1},
+          "9" : {"frames" : 1},
+          "excess" : {"frames" : 1},
+          "invalid" : {"frames" : 1}
+        }
+      },
+
+
+      "base" : {
+        "default" : "base",
+        "states" : { "base": {"frames": 1} }
+      }
+    },
+
+    "parts" : {
+      "one" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [19.25, 0.125]},
+        "partStates" : {
+          "one" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "ten" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [18.25, 0.125]},
+        "partStates" : {
+          "ten" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "hundred" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [17.25, 0.125]},
+        "partStates" : {
+          "hundred" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "thousand" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [16.25, 0.125]},
+        "partStates" : {
+          "thousand" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "tenThousand" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [15.25, 0.125]},
+        "partStates" : {
+          "tenThousand" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "hundredThousand" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [14.25, 0.125]},
+        "partStates" : {
+          "hundredThousand" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "million" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [13.25, 0.125]},
+        "partStates" : {
+          "million" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "tenMillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [12.25, 0.125]},
+        "partStates" : {
+          "tenMillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "hundredMillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [11.25, 0.125]},
+        "partStates" : {
+          "hundredMillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "billion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [10.25, 0.125]},
+        "partStates" : {
+          "billion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "tenBillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [9.25, 0.125]},
+        "partStates" : {
+          "tenBillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "hundredBillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [8.25, 0.125]},
+        "partStates" : {
+          "hundredBillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "trillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [7.25, 0.125]},
+        "partStates" : {
+          "trillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "tenTrillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [6.25, 0.125]},
+        "partStates" : {
+          "tenTrillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "hundredTrillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [5.25, 0.125]},
+        "partStates" : {
+          "hundredTrillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "quadrillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [4.25, 0.125]},
+        "partStates" : {
+          "quadrillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "tenQuadrillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [3.25, 0.125]},
+        "partStates" : {
+          "tenQuadrillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "hundredQuadrillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [2.25, 0.125]},
+        "partStates" : {
+          "hundredQuadrillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "quintillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [1.25, 0.125]},
+        "partStates" : {
+          "quintillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+      "tenQuintillion" : {
+        "properties" : {"fullbright" : true, "centered" : false, "zLevel" : 3, "offset" : [0.25, 0.125]},
+        "partStates" : {
+          "tenQuintillion" : {
+            "0" : {"properties" : {"image" : "<partImage>:0"}},
+            "1" : {"properties" : {"image" : "<partImage>:1"}},
+            "2" : {"properties" : {"image" : "<partImage>:2"}},
+            "3" : {"properties" : {"image" : "<partImage>:3"}},
+            "4" : {"properties" : {"image" : "<partImage>:4"}},
+            "5" : {"properties" : {"image" : "<partImage>:5"}},
+            "6" : {"properties" : {"image" : "<partImage>:6"}},
+            "7" : {"properties" : {"image" : "<partImage>:7"}},
+            "8" : {"properties" : {"image" : "<partImage>:8"}},
+            "9" : {"properties" : {"image" : "<partImage>:9"}},
+            "excess" : {"properties" : {"image" : "<partImage>:excess"}},
+            "invalid" : {"properties" : {"image" : "<partImage>:invalid"}}
+          }
+        }
+      },
+
+      "base" : {
+        "properties" : {"centered" : false},
+        "partStates" : {
+          "base" : { "base" : {"properties" : {"image" : "<partImage>:base"}}}
+        }
+      }
+    }
+  }
+}

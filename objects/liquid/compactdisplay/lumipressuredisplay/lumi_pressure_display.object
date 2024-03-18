@@ -1,0 +1,54 @@
+{
+  "objectName" : "lumi_pressure_display",
+  "printable" : true,
+  "colonyTags" : [ "science", "power", "tech" ],
+  "rarity" : "uncommon",
+  "description" : "A sleek and compact pressure display. Can handle unfathomable pressures.\n^cyan;Input:^reset; Data signal from liquid sensor.",
+  "shortdescription" : "^cyan;Liquid Pressure Display^reset;: ^orange;Ultra Pro Max S2 Plus 99.7in Compressor's Edition^reset;",
+  "race" : "generic",
+  "category" : "wire",
+  "price" : 205,
+
+  "inventoryIcon" : "lumi_pressure_displayicon.png",
+
+  "orientations" : [
+    {
+      "image" : "lumi_pressure_display.png:base",
+      "imagePosition" : [0, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+      "direction" : "right"
+    }
+  ],
+  
+  "scripts" : [ "/objects/liquid/compactdisplay/liquid_compression_display.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "lumi_pressure_display.animation",
+  "animationParts" : {
+     "d1":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
+     "d2":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
+     "d3":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
+     "d4":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
+     "d5":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
+     "d6":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
+     "d7":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
+     "d8":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
+     "d9":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
+     "base": "lumi_pressure_display.png"
+  },
+  "animationPosition" : [0, 0],
+  "inputNodes" : [ [0, 0] ],
+  "displayDigits": {
+    "d1": true,
+    "d2": true,
+    "d3": true,
+    "d4": true,
+    "d5": true,
+    "d6": true,
+    "d7": true,
+    "d8": true,
+    "d9": true
+  }
+}
