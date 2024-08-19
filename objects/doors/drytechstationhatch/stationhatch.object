@@ -1,0 +1,69 @@
+{
+  "objectName" : "drytechstationhatch",
+  "colonyTags" : ["station","door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 140,
+  "description" : "A large, sleek automated hatch, for protecting against fluid mishaps.\n\nPatented by ^cyan;DryTech,^reset; subsidiary of ^orange;Heimskr Inc.^reset;",
+  "shortdescription" : "DryTech Station Hatch",
+  "race" : "generic",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "stationhatch.png:default",
+      "imagePosition" : [-24, -8],
+      "renderLayer" : "Object+5",
+      "animationPosition" : [-24, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "left", "right" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" , "drydoors_stationhatch.lua"],
+  "scriptDelta" : 5,
+
+  "sensorConfig" : {
+    "detectArea" : "vertical"
+  },
+
+  "openMaterialSpaces" : [
+		[[-3, 0], "metamaterial:drytech_door_dry"],
+		[[-2, 0], "metamaterial:drytech_door_dry"],
+		[[-1, 0], "metamaterial:drytech_door_dry"],
+		[[0, 0], "metamaterial:drytech_door_dry"],
+		[[1, 0], "metamaterial:drytech_door_dry"],
+    [[2, 0], "metamaterial:drytech_door_dry"],
+    [[3, 0], "metamaterial:drytech_door_dry"],
+    [[-3, -1], "metamaterial:drytech_door_dry"],
+    [[-2, -1], "metamaterial:drytech_door_dry"],
+    [[-1, -1], "metamaterial:drytech_door_dry"],
+    [[0, -1], "metamaterial:drytech_door_dry"],
+    [[1, -1], "metamaterial:drytech_door_dry"],
+    [[2, -1], "metamaterial:drytech_door_dry"],
+    [[3, -1], "metamaterial:drytech_door_dry"]
+	],
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "stationhatch.png"
+  },
+
+  "inputNodes" : [ [-2, 0] ],
+  "outputNodes" : [ [2, -1] ]
+}

@@ -1,0 +1,6 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{ "item" :"lumi_liquid_compression_display_1x20"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{ "item" :"lumi_pressure_display"} },
+	{"op":"add","path":"/statusControllerSettings/primaryScriptSources/-","value":"/scripts/liquid/pressureStatus.lua"}
+	
+]

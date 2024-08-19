@@ -1,0 +1,10 @@
+[
+	[
+		{ "op" : "add", "path" : "/-", "value" : {
+			"name" : "drytech_door_dry",
+			"materialId" : 65202,
+			"collisionKind" : "none",
+			"blocksLiquidFlow" : true
+		}}
+	]
+]

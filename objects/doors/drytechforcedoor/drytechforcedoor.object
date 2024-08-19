@@ -1,0 +1,54 @@
+{
+  "objectName" : "drytechforcedoor",
+  "colonyTags" : [ "science", "hitech", "door" ],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 95,
+  "description" : "Protects you from liquids, outside wilderness, unwelcome guests, loud noises, repellent smells and pesky door-to-doorers.\n\nPatented by ^cyan;DryTech,^reset; subsidiary of ^orange;Heimskr Inc.^reset;",
+  "shortdescription" : "DryTech Force Door",
+  "race" : "human",
+
+  "apexDescription" : "Liquids aren't going to get through this.",
+  "avianDescription" : "Liquids aren't going to get through this.",
+  "floranDescription" : "Liquids aren't going to get through this.",
+  "glitchDescription" : "Liquids aren't going to get through this.",
+  "humanDescription" : "Liquids aren't going to get through this.",
+  "hylotlDescription" : "Liquids aren't going to get through this.",
+
+  "inventoryIcon" : "drytechforcedooricon.png",
+  "orientations" : [
+    {
+      "dualImage" : "drytechforcedoor.png:closed",
+      "imagePosition" : [0, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua", "drytechforcedoor.lua" ],
+  "scriptDelta" : 5,
+  "openMaterialSpaces" : [
+		[[0, 0], "metamaterial:drytech_door_dry"],
+		[[0, 1], "metamaterial:drytech_door_dry"],
+		[[0, 2], "metamaterial:drytech_door_dry"],
+		[[0, 3], "metamaterial:drytech_door_dry"],
+		[[0, 4], "metamaterial:drytech_door_dry"]
+	],
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : [ "/sfx/objects/bunkerslidingdoor_open.ogg" ],
+      "close" : [ "/sfx/objects/bunkerslidingdoor_close.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "door" : "drytechforcedoor.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "inputNodes" : [ [0, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}
