@@ -22,20 +22,20 @@
     }
   ],
   
-  "scripts" : [ "/objects/liquid/compactdisplay/liquid_compression_display.lua" ],
+  "scripts" : [ "/objects/display/compactdisplay/liquid_compression_display.lua" ],
   "scriptDelta" : 5,
 
   "animation" : "lumi_pressure_display.animation",
   "animationParts" : {
-     "d1":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
-     "d2":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
-     "d3":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
-     "d4":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
-     "d5":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
-     "d6":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
-     "d7":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
-     "d8":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
-     "d9":   "/objects/liquid/compactdisplay/liquid_compression_display_num.png",
+     "d1":   "/objects/display/compactdisplay/liquid_compression_display_num.png",
+     "d2":   "/objects/display/compactdisplay/liquid_compression_display_num.png",
+     "d3":   "/objects/display/compactdisplay/liquid_compression_display_num.png",
+     "d4":   "/objects/display/compactdisplay/liquid_compression_display_num.png",
+     "d5":   "/objects/display/compactdisplay/liquid_compression_display_num.png",
+     "d6":   "/objects/display/compactdisplay/liquid_compression_display_num.png",
+     "d7":   "/objects/display/compactdisplay/liquid_compression_display_num.png",
+     "d8":   "/objects/display/compactdisplay/liquid_compression_display_num.png",
+     "d9":   "/objects/display/compactdisplay/liquid_compression_display_num.png",
      "base": "lumi_pressure_display.png"
   },
   "animationPosition" : [0, 0],
