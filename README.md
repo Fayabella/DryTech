@@ -12,3 +12,5 @@ To-do:
 - pressurized fluids causing damage / pressurized debuff
 - pressure canisters for holding unfathomable amounts of fluid, canning machine to create them
 - drytech fluid thruster. i will not elaborate
+
+![gaze upon our works, ye mighty, and despair](drytech.png)
